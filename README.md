@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PurpleDevzilla
 - 👀 I’m interested in becoming a game developer
-- 🌱 I’m currently learning Python, C++, and C#
+- 🌱 I’m currently learning **Python**, **Java**, **C++**, and **C#**
 
 <!---
 PurpleDevzilla/PurpleDevzilla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
